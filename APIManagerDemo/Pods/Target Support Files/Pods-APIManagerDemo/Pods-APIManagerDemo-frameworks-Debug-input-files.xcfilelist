@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-APIManagerDemo/Pods-APIManagerDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/APIManager/APIManager.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/DeviceKit/DeviceKit.framework
+${BUILT_PRODUCTS_DIR}/Hue/Hue.framework
+${BUILT_PRODUCTS_DIR}/SwiftCoreKit/SwiftCoreKit.framework
+${BUILT_PRODUCTS_DIR}/SwifterSwift/SwifterSwift.framework

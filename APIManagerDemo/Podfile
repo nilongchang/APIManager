@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'APIManagerDemo' do
+  pod 'APIManager', :path => '../'
+  # 私有组件
+  pod 'SwiftCoreKit', :git => 'https://gitee.com/jz-mobile/swift-core-kit.git', :tag => '0.0.7'
+end

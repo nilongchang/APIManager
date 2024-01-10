@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (4.9.1)
+  - APIManager (0.1.0):
+    - Alamofire (~> 4.0)
+  - DeviceKit (4.6.0)
+  - Hue (5.0.0)
+  - SwiftCoreKit (0.0.7):
+    - DeviceKit (~> 4.0)
+    - Hue (~> 5.0)
+    - SwifterSwift/CoreGraphics
+    - SwifterSwift/Foundation
+    - SwifterSwift/UIKit
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+
+DEPENDENCIES:
+  - APIManager (from `../`)
+  - SwiftCoreKit (from `https://gitee.com/jz-mobile/swift-core-kit.git`, tag `0.0.7`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DeviceKit
+    - Hue
+    - SwifterSwift
+
+EXTERNAL SOURCES:
+  APIManager:
+    :path: "../"
+  SwiftCoreKit:
+    :git: https://gitee.com/jz-mobile/swift-core-kit.git
+    :tag: 0.0.7
+
+CHECKOUT OPTIONS:
+  SwiftCoreKit:
+    :git: https://gitee.com/jz-mobile/swift-core-kit.git
+    :tag: 0.0.7
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  APIManager: 483b3012130d0519fc79fbd7ef97b77473f9c0a1
+  DeviceKit: 834dd8aa1be53cd85364d8f49aa5d98bfac397c4
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  SwiftCoreKit: a8be8a6be4afedd13c9d9fdfb060954739e8ceda
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+
+PODFILE CHECKSUM: 281dac658f69e59e74f5c4929894d3b3a7264666
+
+COCOAPODS: 1.11.3

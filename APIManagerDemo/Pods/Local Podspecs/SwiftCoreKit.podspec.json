@@ -1,0 +1,48 @@
+{
+  "name": "SwiftCoreKit",
+  "version": "0.0.7",
+  "summary": "A short description of SwiftCoreKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitee.com/jz-mobile/swift-core-kit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zengyijie": "zengyijie@jianzhikeji.com"
+  },
+  "source": {
+    "git": "https://gitee.com/jz-mobile/swift-core-kit.git",
+    "tag": "0.0.7"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": [
+    "5.0",
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5"
+  ],
+  "source_files": "SwiftCoreKit/Classes/**/*",
+  "dependencies": {
+    "DeviceKit": [
+      "~> 4.0"
+    ],
+    "SwifterSwift/Foundation": [
+
+    ],
+    "SwifterSwift/UIKit": [
+
+    ],
+    "SwifterSwift/CoreGraphics": [
+
+    ],
+    "Hue": [
+      "~> 5.0"
+    ]
+  },
+  "swift_version": "5.5"
+}
